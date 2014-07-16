@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="uni1EA2" r="uni1EF6" v="-20"/>
+      <pair l="uni1EA8" r="uni1EF6" v="-20"/>
+      <pair l="uni1ECE" r="uni1EF6" v="-60"/>
+      <pair l="uni1ED4" r="uni1EF6" v="-60"/>
+      <pair l="uni1EDE" r="uni1EF6" v="50"/>
+      <pair l="uni1EF6" r="uni1EA2" v="-70"/>
+      <pair l="uni1EF6" r="uni1EA8" v="-70"/>
+      <pair l="uni1EF6" r="uni1EB2" v="-70"/>
+      <pair l="uni1EF6" r="uni1EB6" v="-70"/>
+      <pair l="uni1EF6" r="uni1ECE" v="-80"/>
+      <pair l="uni1EF6" r="uni1ED4" v="-80"/>
+      <pair l="uni1EF6" r="uni1EDE" v="-80"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>

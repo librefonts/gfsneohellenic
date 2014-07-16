@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="GFSNeohellenicIt.otf.GlyphOrder.ttx"/>
+  <head src="GFSNeohellenicIt.otf._h_e_a_d.ttx"/>
+  <hhea src="GFSNeohellenicIt.otf._h_h_e_a.ttx"/>
+  <maxp src="GFSNeohellenicIt.otf._m_a_x_p.ttx"/>
+  <OS_2 src="GFSNeohellenicIt.otf.O_S_2f_2.ttx"/>
+  <name src="GFSNeohellenicIt.otf._n_a_m_e.ttx"/>
+  <cmap src="GFSNeohellenicIt.otf._c_m_a_p.ttx"/>
+  <post src="GFSNeohellenicIt.otf._p_o_s_t.ttx"/>
+  <CFF src="GFSNeohellenicIt.otf.C_F_F_.ttx"/>
+  <GPOS src="GFSNeohellenicIt.otf.G_P_O_S_.ttx"/>
+  <GSUB src="GFSNeohellenicIt.otf.G_S_U_B_.ttx"/>
+  <hmtx src="GFSNeohellenicIt.otf._h_m_t_x.ttx"/>
+  <kern src="GFSNeohellenicIt.otf._k_e_r_n.ttx"/>
+</ttFont>

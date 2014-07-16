@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="uniF639" r="uniF63C" v="28"/>
+      <pair l="uniF63F" r="uniF63C" v="-50"/>
+      <pair l="uniF641" r="uniF63C" v="-12"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>

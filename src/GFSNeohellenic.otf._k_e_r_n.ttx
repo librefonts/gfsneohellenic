@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="C" v="-40"/>
+      <pair l="A" r="O" v="-40"/>
+      <pair l="A" r="Q" v="-40"/>
+      <pair l="A" r="T" v="-60"/>
+      <pair l="A" r="V" v="-60"/>
+      <pair l="A" r="W" v="-60"/>
+      <pair l="A" r="Y" v="-80"/>
+      <pair l="Alpha" r="Omicron" v="-40"/>
+      <pair l="Alpha" r="Theta" v="-20"/>
+      <pair l="D" r="A" v="-20"/>
+      <pair l="D" r="Y" v="-30"/>
+      <pair l="Gamma" r="Alpha" v="-40"/>
+      <pair l="K" r="C" v="-20"/>
+      <pair l="K" r="O" v="-20"/>
+      <pair l="O" r="A" v="-40"/>
+      <pair l="Omicron" r="Alpha" v="-40"/>
+      <pair l="Psi" r="Alpha" v="-30"/>
+      <pair l="Q" r="A" v="-40"/>
+      <pair l="Rho" r="Alpha" v="-40"/>
+      <pair l="T" r="A" v="-60"/>
+      <pair l="T" r="T" v="50"/>
+      <pair l="T" r="a" v="-40"/>
+      <pair l="T" r="c" v="-40"/>
+      <pair l="T" r="e" v="-40"/>
+      <pair l="T" r="o" v="-40"/>
+      <pair l="T" r="y" v="-40"/>
+      <pair l="V" r="A" v="-60"/>
+      <pair l="V" r="a" v="-40"/>
+      <pair l="V" r="c" v="-40"/>
+      <pair l="V" r="o" v="-40"/>
+      <pair l="V" r="u" v="-20"/>
+      <pair l="V" r="y" v="-20"/>
+      <pair l="W" r="A" v="-60"/>
+      <pair l="W" r="a" v="-40"/>
+      <pair l="W" r="c" v="-40"/>
+      <pair l="W" r="o" v="-40"/>
+      <pair l="W" r="u" v="-20"/>
+      <pair l="W" r="y" v="-20"/>
+      <pair l="Y" r="A" v="-80"/>
+      <pair l="a" r="d" v="-12"/>
+      <pair l="a" r="f" v="-30"/>
+      <pair l="a" r="j" v="-28"/>
+      <pair l="a" r="y" v="-32"/>
+      <pair l="alpha" r="gamma" v="20"/>
+      <pair l="b" r="y" v="-20"/>
+      <pair l="c" r="o" v="-20"/>
+      <pair l="c" r="q" v="-20"/>
+      <pair l="c" r="y" v="-18"/>
+      <pair l="chi" r="rho" v="20"/>
+      <pair l="d" r="y" v="-32"/>
+      <pair l="e" r="y" v="-32"/>
+      <pair l="f" r="b" v="32"/>
+      <pair l="f" r="o" v="-36"/>
+      <pair l="gamma" r="alpha" v="-20"/>
+      <pair l="gamma" r="eta" v="20"/>
+      <pair l="gamma" r="lambda" v="-20"/>
+      <pair l="gamma" r="omega" v="-20"/>
+      <pair l="gamma" r="omicron" v="-20"/>
+      <pair l="gamma" r="rho" v="-20"/>
+      <pair l="h" r="y" v="-32"/>
+      <pair l="k" r="y" v="-22"/>
+      <pair l="kappa" r="lambda" v="12"/>
+      <pair l="m" r="y" v="-20"/>
+      <pair l="n" r="y" v="-20"/>
+      <pair l="o" r="y" v="-28"/>
+      <pair l="omega" r="tau" v="-30"/>
+      <pair l="pi" r="epsilon" v="-10"/>
+      <pair l="r" r="a" v="-12"/>
+      <pair l="r" r="c" v="-22"/>
+      <pair l="r" r="d" v="-22"/>
+      <pair l="r" r="e" v="-22"/>
+      <pair l="r" r="g" v="-22"/>
+      <pair l="r" r="o" v="-22"/>
+      <pair l="r" r="q" v="-22"/>
+      <pair l="s" r="c" v="-24"/>
+      <pair l="s" r="y" v="-38"/>
+      <pair l="sigma" r="lambda" v="-32"/>
+      <pair l="sigma" r="tau" v="20"/>
+      <pair l="uniF639" r="uniF63C" v="28"/>
+      <pair l="uniF63F" r="uniF63C" v="-50"/>
+      <pair l="uniF641" r="uniF63C" v="-12"/>
+      <pair l="v" r="c" v="-30"/>
+      <pair l="v" r="d" v="-30"/>
+      <pair l="v" r="e" v="-30"/>
+      <pair l="v" r="g" v="-30"/>
+      <pair l="v" r="o" v="-30"/>
+      <pair l="v" r="q" v="-30"/>
+      <pair l="w" r="c" v="-24"/>
+      <pair l="w" r="d" v="-24"/>
+      <pair l="w" r="e" v="-24"/>
+      <pair l="w" r="g" v="-24"/>
+      <pair l="w" r="o" v="-24"/>
+      <pair l="w" r="q" v="-24"/>
+      <pair l="y" r="a" v="-12"/>
+      <pair l="y" r="o" v="-16"/>
+      <pair l="zeta" r="alpha" v="-40"/>
+      <pair l="zeta" r="epsilon" v="-20"/>
+      <pair l="zeta" r="eta" v="-20"/>
+      <pair l="zeta" r="iota" v="-20"/>
+      <pair l="zeta" r="omega" v="-40"/>
+      <pair l="zeta" r="omicron" v="-40"/>
+      <pair l="zeta" r="upsilon" v="-40"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
