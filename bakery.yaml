@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [GFSNeohellenicItalic.ttf.ttx, GFSNeohellenicBoldItalic.ttf.ttx, GFSNeohellenicBold.ttf.ttx,
+  GFSNeohellenic.ttf.ttx, src/GFSNeohellenicItalic.ttf.ttx, src/GFSNeohellenicIt.otf.ttx,
+  src/GFSNeohellenicBoldItalic.ttf.ttx, src/GFSNeohellenicBoldIt.otf.ttx, src/GFSNeohellenicBold.ttf.ttx,
+  src/GFSNeohellenicBold.otf.ttx, src/GFSNeohellenic.ttf.ttx, src/GFSNeohellenic.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
